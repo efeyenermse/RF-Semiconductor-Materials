@@ -18,13 +18,12 @@ This project presents a comparative analysis of key semiconductor materials used
 
 ## How to Run
 1. Clone the repository
-2. Open the Jupyter Notebook (`analiz.ipynb`)
+2. Open the Jupyter Notebook (`Analysis of RF Materials.ipynb`)
 3. Execute the cells sequentially to reproduce the analysis and graphs
 
 ## File Structure
 - `analiz.ipynb` : Main notebook with data analysis and visualization
-- `veri.xlsx` : Excel file with material property data
-- `References.md` : Source list of research and websites
+- `Material Properties.xlsx` : Excel file with material property data
 
 ## Author
 Efe Yener
